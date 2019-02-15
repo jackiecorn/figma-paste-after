@@ -1,0 +1,9 @@
+{
+	"id": "duplicate-and-push",
+	"name": "Duplicate and Push",
+	"author": "Jackie Chui",
+	"description": "Duplicate a frame right next to it, and push nearby frames to make space. Or delete a frame and push nearby frames back to fill the space. This is useful for inserting or removing a screen in the middle of a linear flow.",
+	"instructions": "Select a top-level frame in the canvas, then right click and select 'Duplicate and Push' or 'Delete and Push'.",
+	"images": ["preview.gif"],
+	"js": ["app.js"]
+}
